@@ -1,0 +1,36 @@
+.Home_Main{
+    height: 100vh;
+    background-color: black;
+    color: white;
+    font-size: x-large;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.Home_Main form{
+    height: 30%;
+    width: 30%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+.Home_Main input{
+    height: 25%;
+    background-color: black;
+    color: white;
+    border: 3px solid white;
+    border-radius: 15px;
+    font-size: large;
+}
+
+.Home_Main button{
+    height: 25%;
+    background-color: black;
+    color: white;
+    border: 3px solid white;
+    border-radius: 15px;
+    font-size: large;
+}
